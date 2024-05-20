@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChallengeNET")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba21c8966ecc06b7177010d05c042348c6c1cfcb")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChallengeNET")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChallengeNET")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
